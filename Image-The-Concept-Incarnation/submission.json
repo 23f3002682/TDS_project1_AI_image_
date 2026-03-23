@@ -1,8 +1,7 @@
 {
-  "prompt": "",
-  "model": "Gemini 3 Flash Image",
-  "dataset_name": "",
-  "dataset_url": "",
-  "insight": "",
+  "prompt": "A photorealistic landscape photograph, taken in the rugged mountains of the Karakoram range during late afternoon golden hour. An experienced mountaineer, dressed in technical red and orange outerwear and a backpack, is kneeling at the absolute center bottom of a small, distinct bowl-like basin on a high mountain ridge. The mountaineer is focused on setting up a precise technical instrument on a small tripod, perhaps a laser rangefinder, looking at the ground beneath it with intense concentration. The basin itself is clearly a relative low point, with the surrounding ground rising steeply on all sides to form a rim. Small boulders and scree fill the basin floor. Just beyond the crest of the nearest prominent ridge, however, the ground drops away dramatically and precipitously into an immense, misty, and extremely deep glacial valley that recedes for miles, revealing a far lower elevation level completely out of sight from within the basin. Jagged, distant peaks are visible in the background, partially veiled in atmospheric haze, emphasizing the monumental scale of the valley below. The scene is physically plausible and realistic. Rolling clouds fill the depths of the major valley. The light is dynamic, casting long shadows. No artifacts, labels, text, or non-physical elements are present. Shot on a Canon EOS R5, natural light, dramatic perspective showing the contrast in scale. (High resolution, short side > 1024px).",
+  "model": "DALL·E 3",
+  "concept": "local minima",
+  "metaphor": "A surveyor in a shallow crater is oblivious to a nearby monumental valley, representing a model finding a localized error basin while missing a far better global minimum.",
   "publish_email": true 
 }
