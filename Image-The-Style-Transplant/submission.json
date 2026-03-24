@@ -4,5 +4,6 @@
   "concept": "Decision Trees",
   "tradition_name": "Scientific Engraving (Botanical Illustration)",
   "tradition_period": "c. 1750s-1830s (Late Age of Exploration)",
-  "tradition_approach": "Targeted the grammar of copperplate botanical plates: precise cross-hatching for shade, formal centered 'Tabula' composition, and Latin terminology. This perfectly maps algorithmic conditional logic onto the branching structure of a physical plant."
+  "tradition_approach": "Targeted the grammar of copperplate botanical plates: precise cross-hatching for shade, formal centered 'Tabula' composition, and Latin terminology. This perfectly maps algorithmic conditional logic onto the branching structure of a physical plant.",
+  "publish_email": true
 }
