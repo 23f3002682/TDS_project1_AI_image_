@@ -1,0 +1,80 @@
+zCARRIER: Verizon PLMN=310410 CELLID=14884
+CARRIER: AT
+T PLMN=310410 CELLID=14885
+device-310410230338572
+network
+GET /api/register HTTP/1.1
+Host: network.carrier.com
+User-Agent: MobileDevice/1.0 (IMSI:310410230338572
+ CELL:14884)
+Accept: 
+Connection: close
+device-310410078834214
+network
+GET /api/register HTTP/1.1
+Host: network.carrier.com
+User-Agent: MobileDevice/1.0 (IMSI:310410078834214
+ CELL:14884)
+Accept: 
+Connection: close
+device-310410376711240
+network
+GET /api/register HTTP/1.1
+Host: network.carrier.com
+User-Agent: MobileDevice/1.0 (IMSI:310410376711240
+ CELL:14884)
+Accept: 
+Connection: close
+device-310410547675393
+network
+GET /api/register HTTP/1.1
+Host: network.carrier.com
+User-Agent: MobileDevice/1.0 (IMSI:310410547675393
+ CELL:14884)
+Accept: 
+Connection: close
+updates
+apple
+example
+weather
+UNAUTHORIZED-TEST-NETWORK PLMN=00101 CELLID=91521 
+device-310410050746829
+network
+GET /api/register HTTP/1.1
+Host: network.carrier.com
+User-Agent: MobileDevice/1.0 (IMSI:310410050746829
+ CELL:91521)
+Accept: 
+Connection: close
+POST /upload HTTP/1.1
+Host: 198.51.100.102
+Content-Type: application/octet-stream
+Content-Length: 9
+RVlUW3Vsd
+POST /upload HTTP/1.1
+Host: 198.51.100.102
+Content-Type: application/octet-stream
+Content-Length: 9
+EJHAFBBBW
+POST /upload HTTP/1.1
+Host: 198.51.100.102
+Content-Type: application/octet-stream
+Content-Length: 9
+dRCllcaEA
+POST /upload HTTP/1.1
+Host: 198.51.100.102
+Content-Type: application/octet-stream
+Content-Length: 9
+GTwFLagNW
+POST /upload HTTP/1.1
+Host: 198.51.100.102
+Content-Type: application/octet-stream
+Content-Length: 9
+AVINB1sHT
+POST /upload HTTP/1.1
+Host: 198.51.100.102
+Content-Type: application/octet-stream
+Content-Length: 3
+example
+maps
+google
